@@ -5,7 +5,7 @@
 The year is 2048. Advanced technologies allow us to introspect our dreams further than ever before. One such device can track our consciousness state while we dream, giving us at the same time the possibility to dream within a dream, greatly warping the perceived time. 
 
 To better understand how this technology works, the model of a timeline in diagram form can give some insights:
-![Alt text] (https://github.com/murariuroger/InceptionCodingChallenge/blob/master/description-p0.png?raw=true)
+![Alt text](https://github.com/murariuroger/InceptionCodingChallenge/blob/master/description-p0.png?raw=true)
 
 A **timeline** consists of a series of time increments, or **ticks**. Each tick is considered atomic in its timeline, meaning that it can not be split into subunits in its timeline. For the purpose of the model it doesn't really matter if a tick is a second, millisecond, nanosecond or any other division of time.
 
